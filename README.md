@@ -7,7 +7,7 @@
    * [How to Run](#how-to-run)
 
 ## Description
-This is a kinect wrapper that works on top of the pykinect2 python module.
+This is a kinect wrapper that works on top of the [pykinect2](https://github.com/Kinect/PyKinect2.git) python module.
 
 ## System Requirements
 1. Microsoft Kinect V2 Sensor
